@@ -19,7 +19,7 @@ function CivicFooter() {
           <div className="flex items-center gap-2">
             <span className="w-2.5 h-2.5 rounded-full bg-[#d97706]" />
             <span className="text-white font-bold text-sm tracking-wide">
-              Samriddhi-AI (समृद्धि-AI)
+              FindMyScheme
             </span>
           </div>
           <p className="text-center md:text-left text-[#64748b]">
@@ -41,7 +41,7 @@ function CivicFooter() {
             Directing SC credit beneficiaries to verified channel financing partners
           </p>
           <p className="text-[10px] text-[#475569]">
-            © {new Date().getFullYear()} Samriddhi-AI · Built for Smart India Hackathon
+            © {new Date().getFullYear()} FindMyScheme · Built for Smart India Hackathon
           </p>
         </div>
       </div>

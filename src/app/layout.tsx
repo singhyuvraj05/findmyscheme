@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Samriddhi-AI | समृद्धि-AI — MoSJE Scheme Matching",
+  title: "FindMyScheme — MoSJE Scheme Matching",
   description:
     "AI-Driven Scheme Matching for Marginalized SC Entrepreneurs. Ministry of Social Justice and Empowerment (MoSJE).",
 };

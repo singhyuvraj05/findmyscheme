@@ -28,7 +28,7 @@ export default function Navbar() {
               </div>
               <div>
                 <div className="text-white font-bold text-base leading-tight">
-                  {lang === "en" ? "Samriddhi-AI" : "समृद्धि-AI"}
+                  {lang === "en" ? "FindMyScheme" : "फाइंड माय स्कीम"}
                 </div>
                 <div className="text-[#94a3b8] text-[10px] leading-tight hidden sm:block">
                   {t.mosje}
