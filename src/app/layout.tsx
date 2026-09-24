@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FindMyScheme — MoSJE Scheme Matching",
+  title: "FindMyScheme | FindMyScheme — MoSJE Scheme Matching",
   description:
     "AI-Driven Scheme Matching for Marginalized SC Entrepreneurs. Ministry of Social Justice and Empowerment (MoSJE).",
 };

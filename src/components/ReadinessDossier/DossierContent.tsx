@@ -47,7 +47,7 @@ export default function DossierContent({ onPrint }: DossierContentProps) {
             Ministry of Social Justice & Empowerment
           </div>
           <h2 className="text-xl font-extrabold mt-1">
-            {lang === "hi" ? "फाइंड माय स्कीम" : "FindMyScheme"} — {t.dossierTitle}
+            {lang === "hi" ? "FindMyScheme" : "FindMyScheme"} — {t.dossierTitle}
           </h2>
           <p className="text-[#94a3b8] text-xs mt-1">{t.generatedOn}: {today}</p>
         </div>

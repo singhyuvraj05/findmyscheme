@@ -137,7 +137,7 @@ export const translations = {
 
   hi: {
     // App
-    appName: "फाइंड माय स्कीम",
+    appName: "FindMyScheme",
     appTagline: "SC उद्यमियों के लिए AI-संचालित योजना मिलान",
     mosje: "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
     poweredBy: "AI द्वारा संचालित",
